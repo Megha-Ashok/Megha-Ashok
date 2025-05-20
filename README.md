@@ -7,7 +7,7 @@
 
 - 👨‍💻 I’m currently working on **Student Performance Predictor**, **AgriSmart**, and **Vehicle Insurance**
 
-- 📁 Check out my resume here - [My Resume](https://your-resume-link.com)
+- 📁 Check out my resume here - [My Resume](https://docs.google.com/document/d/1fOt-NmNURLhTna0-SpjROrO0AkK8cI7PruYawWnbkAw/edit?tab=t.0)
 
 - 🖥️ All of my projects are available on [GitHub](https://github.com/Megha-Ashok)
 
