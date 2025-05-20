@@ -21,9 +21,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Megha-Ashok&show_icons=true&locale=en" alt="Megha-Ashok" /></p>
 
-<p><img align="center" src="leetcode1.png" width=250px height=250px
+<p><img align="center" src="leetcode1.png" width=250px height=300px
 alt="Megha-Ashok" /></p>
-
+<p><img align="center" src="leetcode2.png" width=250px height=300px
+alt="Megha-Ashok" /></p>
+<p><img align="center" src="leetcode3.png" width=250px height=300px
+alt="Megha-Ashok" /></p>
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
