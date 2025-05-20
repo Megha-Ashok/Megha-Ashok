@@ -21,7 +21,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Megha-Ashok&show_icons=true&locale=en" alt="Megha-Ashok" /></p>
 
-<p><img align="center" src=""C:\Users\Megha\OneDrive\Pictures\leetcode1.png"
+<p><img align="center" src="leetcode1.png"
 alt="Megha-Ashok" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
