@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Megha-Ashok&label=Profile%20views&color=0e75b6&style=flat" alt="Megha-Ashok" /> </p>
 
-- 🌱 I’m currently learning **Generative AI, MLflow, and System Design**
+- 🌱 I’m currently learning **Generative AI, MLflow**
 
 - 👨‍💻 I’m currently working on **Student Performance Predictor**, **AgriSmart**, and **Vehicle Insurance**
 
