@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Megha-Ashok&label=Profile%20views&color=0e75b6&style=flat" alt="Megha-Ashok" /> </p>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=25&center=true&vCenter=true&width=600&lines=I am passionate about understanding different tech stacks and connecting with industry professionals;Always+Ready+to+Collaborate+%F0%9F%A4%9D" />
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=25&center=true&vCenter=true&width=800&lines=I+am+passionate+about+exploring+different+tech+stacks.;Connecting+with+industry+experts.;Always+ready+to+collaborate+%F0%9F%A4%9D" />
+
 </p>
 - 🌱 I’m currently learning **Generative AI, MLflow**
 
