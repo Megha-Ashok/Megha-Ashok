@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Megha-Ashok&label=Profile%20views&color=0e75b6&style=flat" alt="Megha-Ashok" /> </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=#ff0000&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Tech+Enthusiast+%7C+Developer+%7C+Learner;Always+Open+to+Collaboration+🤝" />
+ <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Tech+Enthusiast+%7C+Developer+%7C+Learner;Always+Open+to+Collaboration+🤝;Data+Science+%7C+ML+%7C+Deep+Learning;MLOps+%7C+Flask+%7C+Docker+%7C+Kubernetes;Plant+Disease+Detection+%7C+Mental+Health+App+Builder" />
 </p>
 - 🌱 I’m currently learning **Generative AI, MLflow**
 
