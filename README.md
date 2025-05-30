@@ -1,11 +1,21 @@
-<h1 align="center">Hi 👋, I'm Megha Ashok Rabagannavar</h1>
-<h3 align="center">A passionate Computer Science Student & Aspiring Software Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Megha-Ashok&label=Profile%20views&color=0e75b6&style=flat" alt="Megha-Ashok" /> </p>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=25&center=true&vCenter=true&width=800&lines=I+am+passionate+about+exploring+different+tech+stacks.;Connecting+with+industry+experts.;Always+ready+to+collaborate+%F0%9F%A4%9D" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=25&center=true&vCenter=true&width=900&lines=I+am+deeply+curious+and+passionate+about+modern+tech+stacks.;Driven+to+learn,+build,+and+innovate+continuously.;Eager+to+connect+with+industry+professionals.;Open+to+collaboration+and+technical+growth+%F0%9F%A4%9D" />
 </p>
+
+### 👋 Hello, I'm Megha Ashok Rabagannavar 
+
+I'm a passionate and curious developer exploring the endless possibilities of modern tech stacks. With hands-on experience in **Machine Learning, Deep Learning, MLOps, Flask, Docker, and Kubernetes**, I love building practical solutions — from plant disease detection systems to mental health platforms.
+
+I'm always eager to:
+- 💡 Learn and apply new technologies  
+- 🤝 Collaborate with like-minded professionals  
+- 🌱 Grow through real-world challenges and team efforts  
+
+> 🚀 “Curiosity fuels my code, collaboration shapes my growth.”
+
+---
+
 - 🌱 I’m currently learning **Generative AI, MLflow**
 
 - 👨‍💻 I’m currently working on **Student Performance Predictor**, **AgriSmart**, and **Vehicle Insurance**
