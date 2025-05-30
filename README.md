@@ -5,7 +5,7 @@
 
 ### 👋 Hello, I'm Megha Ashok Rabagannavar 
 
-I'm a passionate and curious developer exploring the endless possibilities of modern tech stacks. With hands-on experience in **Machine Learning, Deep Learning, MLOps, Flask, Docker, and Kubernetes**, I love building practical solutions — from plant disease detection systems to mental health platforms.
+I'm a passionate and curious developer exploring the endless possibilities of modern tech stacks. With hands-on experience in **Machine Learning, Deep Learning, MLOps, Flask, Docker, and Kubernetes**, I love building practical solutions.
 
 I'm always eager to:
 - 💡 Learn and apply new technologies
