@@ -8,14 +8,12 @@
 I'm a passionate and curious developer exploring the endless possibilities of modern tech stacks. With hands-on experience in **Machine Learning, Deep Learning, MLOps, Flask, Docker, and Kubernetes**, I love building practical solutions — from plant disease detection systems to mental health platforms.
 
 I'm always eager to:
-- 💡 Learn and apply new technologies  
-- 🤝 Collaborate with like-minded professionals  
-- 🌱 Grow through real-world challenges and team efforts  
-
-> 🚀 “Curiosity fuels my code, collaboration shapes my growth.”
-
----
-
+- 💡 Learn and apply new technologies
+  
+- 🤝 Collaborate with like-minded professionals
+  
+- 🌱 Grow through real-world challenges and team efforts
+  
 - 🌱 I’m currently learning **Generative AI, MLflow**
 
 - 👨‍💻 I’m currently working on **Student Performance Predictor**, **AgriSmart**, and **Vehicle Insurance**
