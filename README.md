@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Megha Ashok Rabagannavar</h1>
-<h3 align="center">3rd Year CS Student at JSSSTU</h3>
+<h2 align="center">3rd Year CS Student at JSSSTU</h2>
 
 I'm a passionate and curious developer exploring the endless possibilities of modern tech stacks. With hands-on experience in **Machine Learning, Deep Learning, MLOps, Flask, Docker, and Kubernetes**, I love building practical solutions.
       <p align="center">
