@@ -1,8 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Megha Ashok Rabagannavar</h1>
 <h3 align="center">Pre-Final Year CS Student at JSSSTU</h3>
-<h4 align ="center" font-family:"Times New Roman">
-I'm a passionate and curious developer exploring the endless possibilities of modern tech stacks. With hands-on experience in **Machine Learning, Deep Learning, MLOps, Flask, Docker, and Kubernetes**, I love building practical solutions.</h4>
+<span style="color:red; font-family:Courier; font-size:20px;">
+I'm a passionate and curious developer exploring the endless possibilities of modern tech stacks. With hands-on experience in **Machine Learning, Deep Learning, MLOps, Flask, Docker, and Kubernetes**, I love building practical solutions.</span>
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=25&center=true&vCenter=true&width=900&lines=I+am+deeply+curious+and+passionate+about+modern+tech+stacks.;Driven+to+learn,+build,+and+innovate+continuously.;Eager+to+connect+with+industry+professionals.;Open+to+collaboration+and+technical+growth+%F0%9F%A4%9D" />
 </p>
