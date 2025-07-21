@@ -16,7 +16,7 @@ I'm a passionate and curious developer exploring the endless possibilities of mo
   
 - 🌱 I’m currently learning **Generative AI, MLflow**
 
-- 👨‍💻 I’m currently working on **Student Performance Predictor**, **AgriSmart**, and **Vehicle Insurance**
+- 👨‍💻 I’m currently working on **AgriSmart**
 
 - 📁 Check out my resume here - [My Resume](Megha_resume_2026.pdf)
 
