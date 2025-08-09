@@ -18,7 +18,7 @@ I'm a passionate and curious developer exploring the endless possibilities of mo
 
 - 👨‍💻 I’m currently working on **AgriSmart**
 
-- 📁 Check out my resume here - [My Resume](Megha_resume_2026.pdf)
+- 📁 Check out my resume here - [My Resume](megha_2026.docx)
 
 - 🖥️ All of my projects are available on [GitHub](https://github.com/Megha-Ashok)
 
